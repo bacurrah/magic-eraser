@@ -1,0 +1,5 @@
+/presentation
+/reference
+/build/*/
+/.vscode
+/bin
